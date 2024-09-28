@@ -2,15 +2,15 @@
 
 # Interantes "Matricula - Nome"
 
-2221533 - Calebe Rodrigues Rolim
-2211377 - Filipe Gideão Rodrigues
-2211830 - Filipe Mota Tocchio Rodrigues
-2212144 - Gabriel Fernandes Carvalho 
-2111508 - Gabriel Reis Costa
-2212157 - Guilherme Rezende Damaceno
-2210552 - Gustavo Silva Batista Rosa
-2210867 - José Vitor Pereira Silva
-2211403 - Ruan de Freitas Moreira
+2221533 - Calebe Rodrigues Rolim;
+2211377 - Filipe Gideão Rodrigues;
+2211830 - Filipe Mota Tocchio Rodrigues;
+2212144 - Gabriel Fernandes Carvalho;
+2111508 - Gabriel Reis Costa;
+2212157 - Guilherme Rezende Damaceno;
+2210552 - Gustavo Silva Batista Rosa;
+2210867 - José Vitor Pereira Silva;
+2211403 - Ruan de Freitas Moreira;
 
 ## Visão Geral
 
